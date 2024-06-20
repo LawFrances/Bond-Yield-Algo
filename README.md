@@ -1,7 +1,7 @@
 # Yield Curve Interpolation Project
 
 ## Overview
-This project includes implementations of a yield curve interpolation algorithm in Python and Java. The purpose of the algorithm is to calculate interpolated or extrapolated yield rates (bid, ask, or mid) for a given date.
+This project includes implementations of a yield curve interpolation algorithm in Java. The purpose of the algorithm is to calculate interpolated or extrapolated yield rates (bid, ask, or mid) for a given date.
 
 ## Scripts Description
 
